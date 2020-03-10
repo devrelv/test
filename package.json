@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/devrelv/test#readme",
   "dependencies": {
+    "hapi": "^18.1.0",
     "request": "^1.0.0"
   }
 }

@@ -1,0 +1,23 @@
+{
+  "name": "devrelv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devrelv/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devrelv/test/issues"
+  },
+  "homepage": "https://github.com/devrelv/test#readme",
+  "dependencies": {
+    "request": "^1.0.0"
+  }
+}
